@@ -1,2 +1,2 @@
 # Ploting-Geospatial-data
-used libraries Xarray, Matplotlib, cartopy
+Used libraries Xarray, Matplotlib, cartopy
